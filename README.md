@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/98a0b316-33c2-4953-8e18-79ea885e3140)
 
+[![image](https://github.com/user-attachments/assets/7d810145-0879-4784-a6e1-268f04f9d011)](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 
 # Python Projects
 All of my python projects to practice.
