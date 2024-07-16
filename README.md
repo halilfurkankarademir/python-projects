@@ -9,7 +9,7 @@ All of my python projects to practice.
 
 ●Currency Converter 💱
 
-●Keygen Generator 🔑
+●Serial Key Generator 🔑
 
 ●Caesar Cipher Generator / Decoder 🗝️
 
